@@ -1,0 +1,3 @@
+# colorPickerGamer
+# JavaScript
+# RGB colors 
